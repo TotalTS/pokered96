@@ -14,7 +14,7 @@ _Route16AfterBattleText1::
 	done
 
 _Route16BattleText2::
-	text "Nice BIKE!"
+	text "Nice bike!"
 	line "Hand it over!"
 	done
 
@@ -25,7 +25,7 @@ _Route16EndBattleText2::
 
 _Route16AfterBattleText2::
 	text "Forget it, who"
-	line "needs your BIKE!"
+	line "needs your bike!"
 	done
 
 _Route16BattleText3::
@@ -54,8 +54,8 @@ _Route16EndBattleText4::
 
 _Route16AfterBattleText4::
 	text "You can also get"
-	line "to FUCHSIA from"
-	cont "VERMILION using a"
+	line "to Fuchsia from"
+	cont "Vermilion using a"
 	cont "coastal road."
 	done
 
@@ -71,8 +71,8 @@ _Route16EndBattleText5::
 
 _Route16AfterBattleText5::
 	text "I like my #MON"
-	line "ferocious! They"
-	cont "tear up enemies!"
+	line "ferocious to tear"
+	cont "up any enemy!"
 	done
 
 _Route16BattleText6::
@@ -115,6 +115,6 @@ _Route16Text8::
 
 _Route16Text9::
 	text "ROUTE 16"
-	line "CELADON CITY -"
-	cont "FUCHSIA CITY"
+	line "Celadon City -"
+	cont " Fuchsia City"
 	done

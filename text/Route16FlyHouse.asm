@@ -3,7 +3,7 @@ _Route16HouseText3::
 	line "secret retreat!"
 
 	para "Please don't tell"
-	line "anyone I'm here."
+	line "anyone I'm here!"
 	cont "I'll make it up"
 	cont "to you with this!"
 	prompt

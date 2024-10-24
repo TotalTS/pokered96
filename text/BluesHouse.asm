@@ -1,7 +1,7 @@
 _DaisyInitialText::
 	text "Hi <PLAYER>!"
-	line "<RIVAL> is out at"
-	cont "Grandpa's lab."
+	line "My brother <RIVAL> is"
+	cont "at Grandpa's lab."
 	done
 
 _DaisyOfferMapText::
@@ -25,18 +25,18 @@ _DaisyBagFullText::
 
 _DaisyUseMapText::
 	text "Use the TOWN MAP"
-	line "to find out where"
-	cont "you are."
+	line "for checking"
+	cont "where you are."
 	done
 
 _BluesHouseDaisyWalkingText::
 	text "#MON are living"
 	line "things! If they"
 	cont "get tired, give"
-	cont "them a rest!"
+	cont "them rest!"
 	done
 
 _BluesHouseTownMapText::
-	text "It's a big map!"
+	text "It's a local map!"
 	line "This is useful!"
 	done

@@ -1,5 +1,5 @@
 _SilphCo6Text_1a24a::
-	text "The ROCKETs came"
+	text "The Rockets came"
 	line "and took over the"
 	cont "building!"
 	done
@@ -31,14 +31,14 @@ _SilphCo6Text_1a27d::
 	done
 
 _SilphCo6Text_1a28f::
-	text "TEAM ROCKET is"
+	text "The Rockets are"
 	line "trying to conquer"
 	cont "the world with"
 	cont "#MON!"
 	done
 
 _SilphCo6Text_1a294::
-	text "TEAM ROCKET ran"
+	text "The Rockets ran"
 	line "because of you!"
 	done
 
@@ -57,7 +57,7 @@ _SilphCo6Text_1a2ab::
 
 _SilphCo6BattleText2::
 	text "I am one of the 4"
-	line "ROCKET BROTHERS!"
+	line "Rocket Brothers!"
 	done
 
 _SilphCo6EndBattleText2::
@@ -67,17 +67,17 @@ _SilphCo6EndBattleText2::
 
 _SilphCo6AfterBattleText2::
 	text "No matter!"
-	line "My brothers will"
+	line "My brother will"
 	cont "avenge me!"
 	done
 
 _SilphCo6BattleText3::
 	text "That rotten"
-	line "PRESIDENT!"
+	line "President!"
 
 	para "He shouldn't have"
 	line "sent me to the"
-	cont "TIKSI BRANCH!"
+	cont "Tiksi Branch!"
 	done
 
 _SilphCo6EndBattleText3::
@@ -85,14 +85,14 @@ _SilphCo6EndBattleText3::
 	prompt
 
 _SilphCo6AfterBattleText3::
-	text "TIKSI BRANCH?"
-	line "It's in Russian"
-	cont "no man's land!"
+	text "Tiksi Branch?"
+	line "It's in North"
+	cont "Siberia!"
 	done
 
 _SilphCo6BattleText4::
 	text "You dare betray"
-	line "TEAM ROCKET?"
+	line "Rocket Team?"
 	done
 
 _SilphCo6EndBattleText4::

@@ -1,11 +1,11 @@
 _LoreleiBeforeBattleText::
 	text "Welcome to"
-	line "#MON LEAGUE!"
+	line "#MON League!"
 
-	para "I am LORELEI of"
-	line "the ELITE FOUR!"
+	para "I am Lorelei of"
+	line "the Elite Four!"
 
-	para "No one can best"
+	para "No one can better"
 	line "me when it comes"
 	cont "to icy #MON!"
 
@@ -18,7 +18,7 @@ _LoreleiBeforeBattleText::
 	cont "frozen solid!"
 
 	para "Hahaha!"
-	line "Are you ready?"
+	line "Prepare to lose!"
 	done
 
 _LoreleiEndBattleText::
@@ -33,7 +33,7 @@ _LoreleiAfterBattleText::
 
 	para "You only got a"
 	line "taste of #MON"
-	cont "LEAGUE power!"
+	cont "League's power!"
 	done
 
 _LoreleiDontRunAwayText::

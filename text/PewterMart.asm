@@ -1,11 +1,11 @@
 _PewterMartText2::
-	text "A shady, old man"
+	text "This shady old man"
 	line "got me to buy"
 	cont "this really weird"
 	cont "fish #MON!"
 
 	para "It's totally weak"
-	line "and it cost ¥500!"
+	line "And it cost ¥500!"
 	done
 
 _PewterMartText3::

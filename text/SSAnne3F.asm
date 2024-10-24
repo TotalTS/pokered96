@@ -1,5 +1,5 @@
 _SSAnne3Text1::
-	text "Our CAPTAIN is a"
+	text "Our Captain's a"
 	line "sword master!"
 
 	para "He even teaches"

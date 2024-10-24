@@ -33,7 +33,7 @@ _Route10AfterBattleText2::
 	done
 
 _Route10BattleText3::
-	text "Hi kid, want to"
+	text "Hi guy, want to"
 	line "see my #MON?"
 	done
 
@@ -49,8 +49,8 @@ _Route10AfterBattleText3::
 
 _Route10BattleText4::
 	text "I've been to a"
-	line "#MON GYM a few"
-	cont "times. But, I"
+	line "#MON Gym a few"
+	cont "times. But I"
 	cont "lost each time."
 	done
 
@@ -93,7 +93,7 @@ _Route10EndBattleText6::
 
 _Route10AfterBattleText6::
 	text "The #MON here"
-	line "are so chunky!"
+	line "are so lunky!"
 	cont "There should be a"
 	cont "pink one with a"
 	cont "floral pattern!"

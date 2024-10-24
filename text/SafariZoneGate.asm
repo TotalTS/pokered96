@@ -1,6 +1,6 @@
 _SafariZoneEntranceText1::
-	text "Welcome to the"
-	line "SAFARI ZONE!"
+	text "Welcome to Safari"
+	line "Zone!"
 	done
 
 SafariZoneEntranceText_9e6e4::
@@ -70,7 +70,7 @@ _SafariZoneEntranceText_753e6::
 	done
 
 _SafariZoneEntranceText_753eb::
-	text "SAFARI ZONE has 4"
+	text "Safari Zone has 4"
 	line "zones in it."
 
 	para "Each zone has"
@@ -84,11 +84,11 @@ _SafariZoneEntranceText_753eb::
 	cont "BALLs, it's game"
 	cont "over for you!"
 
-	para "Before you go,"
-	line "open an unused"
-	cont "#MON BOX so"
-	cont "there's room for"
-	cont "new #MON!"
+;	para "Before you go,"
+;	line "open an unused"
+;	cont "#MON BOX so"
+;	cont "there's room for"
+;	cont "new #MON!"
 	done
 
 _SafariZoneEntranceText_753f0::

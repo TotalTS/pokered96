@@ -1,13 +1,13 @@
 _ItemUseBallText00::
 	text "It dodged the"
-	line "thrown BALL!"
+	line "#BALL!"
 
 	para "This #MON"
 	line "can't be caught!"
 	prompt
 
 _ItemUseBallText01::
-	text "You missed the"
+	text "Missed the"
 	line "#MON!"
 	prompt
 
@@ -23,7 +23,7 @@ _ItemUseBallText03::
 
 _ItemUseBallText04::
 	text "Shoot! It was so"
-	line "close too!"
+	line "close, too!"
 	prompt
 
 _ItemUseBallText05::
@@ -38,7 +38,7 @@ _ItemUseBallText07::
 	text_ram wBoxMonNicks
 	text " was"
 	line "transferred to"
-	cont "BILL's PC!"
+	cont "Bill's PC!"
 	prompt
 
 _ItemUseBallText08::
@@ -49,10 +49,10 @@ _ItemUseBallText08::
 	prompt
 
 _ItemUseBallText06::
-	text "New #DEX data"
-	line "will be added for"
-	cont "@"
+	text "@'s data"
 	text_ram wEnemyMonNick
+	line "will be newly"
+	cont "added to #DEX!"
 	text "!@"
 	text_end
 
@@ -73,26 +73,26 @@ _VitaminStatRoseText::
 	text "'s"
 	line "@"
 	text_ram wStringBuffer
-	text " rose."
+	text " increased!"
 	prompt
 
 _VitaminNoEffectText::
-	text "It won't have any"
-	line "effect."
+	text "It won't have an"
+	line "effect!"
 	prompt
 
 _ThrewBaitText::
 	text "<PLAYER> threw"
-	line "some BAIT."
+	line "some bait!"
 	done
 
 _ThrewRockText::
 	text "<PLAYER> threw a"
-	line "ROCK."
+	line "rock!"
 	done
 
 _PlayedFluteNoEffectText::
-	text "Played the #"
+	text "Blew the #"
 	line "FLUTE."
 
 	para "Now, that's a"
@@ -101,12 +101,12 @@ _PlayedFluteNoEffectText::
 
 _FluteWokeUpText::
 	text "All sleeping"
-	line "#MON woke up."
+	line "#MON woke up!"
 	prompt
 
 _PlayedFluteHadEffectText::
-	text "<PLAYER> played the"
-	line "# FLUTE.@"
+	text "<PLAYER> blew the"
+	line "# FLUTE!@"
 	text_end
 
 _CoinCaseNumCoinsText::
@@ -119,12 +119,12 @@ _CoinCaseNumCoinsText::
 _ItemfinderFoundItemText::
 	text "Yes! ITEMFINDER"
 	line "indicates there's"
-	cont "an item nearby."
+	cont "an item nearby!"
 	prompt
 
 _ItemfinderFoundNothingText::
 	text "Nope! ITEMFINDER"
-	line "isn't responding."
+	line "isn't responding!"
 	prompt
 
 _RaisePPWhichTechniqueText::
@@ -140,17 +140,17 @@ _RestorePPWhichTechniqueText::
 _PPMaxedOutText::
 	text_ram wStringBuffer
 	text "'s PP"
-	line "is maxed out."
+	line "is maxed out!"
 	prompt
 
 _PPIncreasedText::
 	text_ram wStringBuffer
 	text "'s PP"
-	line "increased."
+	line "increased!"
 	prompt
 
 _PPRestoredText::
-	text "PP was restored."
+	text "PP was restored!"
 	prompt
 
 _BootedUpTMText::
@@ -175,20 +175,19 @@ _TeachMachineMoveText::
 
 _MonCannotLearnMachineMoveText::
 	text_ram wcd6d
-	text " is not"
-	line "compatible with"
-	cont "@"
+	text " is"
+	line "not compatible"
+	cont "with @"
 	text_ram wStringBuffer
 	text "."
 
-	para "It can't learn"
-	line "@"
+	para "@"
 	text_ram wStringBuffer
-	text "."
+	text " can`t be learned!"
 	prompt
 
 _ItemUseNotTimeText::
-	text "OAK: <PLAYER>!"
+	text "Oak: <PLAYER>!"
 	line "This isn't the"
 	cont "time to use that! "
 	prompt
@@ -205,7 +204,7 @@ _ItemUseNoEffectText::
 
 _ThrowBallAtTrainerMonText1::
 	text "The trainer"
-	line "blocked the BALL!"
+	line "blocked the ball!"
 	prompt
 
 _ThrowBallAtTrainerMonText2::
@@ -214,11 +213,11 @@ _ThrowBallAtTrainerMonText2::
 
 _NoCyclingAllowedHereText::
 	text "No cycling"
-	next "allowed here."
+	next "allowed here!"
 	prompt
 
 _NoSurfingHereText::
-	text "No SURFing on"
+	text "No surfing on"
 	line "@"
 	text_ram wcd6d
 	text " here!"

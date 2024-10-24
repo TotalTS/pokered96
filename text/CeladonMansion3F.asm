@@ -11,23 +11,23 @@ _GraphicArtistText::
 
 _WriterText::
 	text "I wrote the story!"
-	line "Isn't ERIKA cute?"
+	line "Isn't Erika cute?"
 
-	para "I like MISTY a"
+	para "I like Misty a"
 	line "lot too!"
 
-	para "Oh, and SABRINA,"
+	para "Oh, and Sabrina,"
 	line "I like her!"
 	done
 
 _GameDesignerText::
-	text "Is that right?"
+	text "Is that right!"
 
 	para "I'm the game"
 	line "designer!"
 
 	para "Filling up your"
-	line "#DEX is tough,"
+	line "#DEX is tough"
 	cont "but don't quit!"
 
 	para "When you finish,"

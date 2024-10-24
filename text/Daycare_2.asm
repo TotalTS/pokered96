@@ -30,5 +30,5 @@ _DayCareHeresYourMonText::
 
 _DayCareNotEnoughMoneyText::
 	text "Hey, you don't"
-	line "have enough ¥!"
+	line "have the money!"
 	done

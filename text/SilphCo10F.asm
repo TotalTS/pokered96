@@ -9,9 +9,9 @@ _SilphCo10Text_5a1d8::
 	done
 
 _SilphCo10BattleText1::
-	text "Welcome to the"
-	line "10F! So good of"
-	cont "you to join me!"
+	text "Welcome to 10F!"
+	line "So good of you to"
+	cont "join me!"
 	done
 
 _SilphCo10EndBattleText1::
@@ -20,14 +20,14 @@ _SilphCo10EndBattleText1::
 	prompt
 
 _SilphCo10AfterBattleText1::
-	text "Nice try, but the"
+	text "Nice try but the"
 	line "boardroom is up"
 	cont "one more floor!"
 	done
 
 _SilphCo10BattleText2::
-	text "Enough of your"
-	line "silly games!"
+	text "That's enough of"
+	line "your games!"
 	done
 
 _SilphCo10EndBattleText2::
@@ -37,6 +37,6 @@ _SilphCo10EndBattleText2::
 
 _SilphCo10AfterBattleText2::
 	text "Are you satisfied"
-	line "with beating me?"
+	line "by beating me?"
 	cont "Then go on home!"
 	done

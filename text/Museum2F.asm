@@ -29,17 +29,17 @@ _Museum2FText4::
 	done
 
 _Museum2FText5::
-	text "Yeah, a PIKACHU"
-	line "soon, I promise!"
+	text "Yeah yup! PIKACHU!"
+	line "Soon, I promise!"
 	done
 
 _Museum2FText6::
-	text "SPACE SHUTTLE"
-	line "COLUMBIA"
+	text "Space Shuttle"
+	line "Columbia"
 	done
 
 _Museum2FText7::
 	text "Meteorite that"
-	line "fell on MT.MOON."
+	line "fell on Mt. Moon."
 	cont "(MOON STONE?)"
 	done

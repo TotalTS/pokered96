@@ -1,11 +1,11 @@
 _MtMoon3Text_49f24::
 	text "You want the"
-	line "DOME FOSSIL?"
+	line "shellfish fossil?"
 	done
 
 _MtMoon3Text_49f64::
 	text "You want the"
-	line "HELIX FOSSIL?"
+	line "snail fossil?"
 	done
 
 _MtMoon3Text_49f6f::
@@ -34,20 +34,20 @@ _MtMoon3Text_49f8a::
 	prompt
 
 _MtMoon3Text_49f8f::
-	text "We'll each take"
-	line "one!"
-	cont "No being greedy!"
+	text "We'll both take"
+	line "one each! No"
+	cont "being greedy!"
 	done
 
 _MtMoon3Text_49f94::
 	text "Far away, on"
-	line "CINNABAR ISLAND,"
+	line "Cinnabar Island,"
 	cont "there's a #MON"
 	cont "LAB."
 
 	para "They do research"
-	line "on regenerating"
-	cont "fossils."
+	line "on regeneration"
+	cont "using fossils."
 	done
 
 _MtMoon3Text_49f99::
@@ -56,10 +56,10 @@ _MtMoon3Text_49f99::
 	text_end
 
 _MtMoon3BattleText2::
-	text "TEAM ROCKET will"
-	line "find the fossils,"
-	cont "revive and sell"
-	cont "them for cash!"
+	text "Rocket Team will"
+	line "find the fossils!"
+	cont "Regenerated"
+	cont "#MON sell!"
 	done
 
 _MtMoon3EndBattleText2::
@@ -68,13 +68,13 @@ _MtMoon3EndBattleText2::
 	prompt
 
 _MtMoon3AfterBattleText2::
-	text "You made me mad!"
-	line "TEAM ROCKET will"
-	cont "blacklist you!"
+	text "For making me mad,"
+	line "you made Rocket"
+	cont "Team's blacklist!"
 	done
 
 _MtMoon3BattleText3::
-	text "We, TEAM ROCKET,"
+	text "We Rocket Team"
 	line "are #MON"
 	cont "gangsters!"
 	done
@@ -97,7 +97,7 @@ _MtMoon3BattleText4::
 	done
 
 _MtMoon3EndBattleText4::
-	text "So, you"
+	text "So you"
 	line "are good."
 	prompt
 
@@ -108,7 +108,7 @@ _MtMoon3AfterBattleText4::
 	done
 
 _MtMoon3BattleText5::
-	text "Little kids"
+	text "Little boys"
 	line "should leave"
 	cont "grown-ups alone!"
 	done
@@ -120,6 +120,6 @@ _MtMoon3EndBattleText5::
 
 _MtMoon3AfterBattleText5::
 	text "#MON lived"
-	line "here long before"
+	line "here way before"
 	cont "people came."
 	done

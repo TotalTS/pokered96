@@ -11,7 +11,7 @@ _SilphCo3Text_59ffe::
 
 _SilphCo3BattleText1::
 	text "Quit messing with"
-	line "us, kid!"
+	line "us kid!"
 	done
 
 _SilphCo3EndBattleText1::
@@ -26,21 +26,21 @@ _SilphCo3AfterBattleText1::
 	done
 
 _SilphCo3BattleText2::
-	text "I support TEAM"
-	line "ROCKET more than"
-	cont "I support SILPH!"
+	text "I support Rocket"
+	line "Team more than I"
+	cont "support SILPH!"
 	done
 
 _SilphCo3EndBattleText2::
 	text "You"
-	line "really got me!"
+	line "got me!"
 	prompt
 
 _SilphCo3AfterBattleText2::
 	text "Humph..."
 
-	para "TEAM ROCKET said"
-	line "that if I helped"
-	cont "them, they'd let"
-	cont "me study #MON!"
+	para "The Rockets said"
+	line "if I helped them,"
+	cont "they'll let me"
+	cont "study #MON!"
 	done

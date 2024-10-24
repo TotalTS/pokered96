@@ -4,14 +4,14 @@ _SilphCo4Text_19de0::
 	done
 
 _SilphCo4Text_19de5::
-	text "Huh? TEAM ROCKET"
+	text "Huh? Rocket Team"
 	line "is gone?"
 	done
 
 _SilphCo4BattleText2::
-	text "TEAM ROCKET has"
+	text "Rocket Team has"
 	line "taken command of"
-	cont "SILPH CO.!"
+	cont "SILPH Company!"
 	done
 
 _SilphCo4EndBattleText2::
@@ -20,7 +20,7 @@ _SilphCo4EndBattleText2::
 
 _SilphCo4AfterBattleText2::
 	text "Fwahahaha!"
-	line "My BOSS has been"
+	line "Boss had been"
 	cont "after this place!"
 	done
 
@@ -51,6 +51,6 @@ _SilphCo4EndBattleText4::
 	prompt
 
 _SilphCo4AfterBattleText4::
-	text "I better tell the"
-	line "BOSS on 11F!"
+	text "I better tell"
+	line "boss on 11F!"
 	done

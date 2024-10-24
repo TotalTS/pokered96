@@ -1,10 +1,10 @@
 _SSAnne7RubText::
-	text "CAPTAIN: Ooargh..."
+	text "Captain: Ooargh..."
 	line "I feel hideous..."
 	cont "Urrp! Seasick..."
 
 	para "<PLAYER> rubbed"
-	line "the CAPTAIN's"
+	line "the Captain's"
 	cont "back!"
 
 	para "Rub-rub..."
@@ -12,11 +12,11 @@ _SSAnne7RubText::
 	text_end
 
 _ReceivingHM01Text::
-	text "CAPTAIN: Whew!"
-	line "Thank you! I"
+	text "Captain: Whew!"
+	line "Thank you, son! I"
 	cont "feel much better!"
 
-	para "You want to see"
+	para "You wanted to see"
 	line "my CUT technique?"
 
 	para "I could show you"
@@ -39,11 +39,18 @@ _ReceivedHM01Text::
 	text_end
 
 _SSAnne7Text_61932::
-	text "CAPTAIN: Whew!"
+	text "Captain: Whew!"
 
 	para "Now that I'm not"
 	line "sick any more, I"
 	cont "guess it's time."
+	
+	para "S.S. Anne will"
+	line "depart soon!"
+	
+	para "Farewell, until"
+	line "our return to"
+	cont "Vermilion City!"
 	done
 
 _HM01NoRoomText::
@@ -57,8 +64,8 @@ _SSAnne7Text2::
 	done
 
 _SSAnne7Text3::
-	text "How to Conquer"
-	line "Seasickness..."
-	cont "The CAPTAIN's"
+	text "Conquer Motion"
+	line "Sickness..."
+	cont "The Captain's"
 	cont "reading this!"
 	done

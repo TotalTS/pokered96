@@ -1,6 +1,6 @@
 _Route14BattleText1::
 	text "You need to use"
-	line "TMs to teach good"
+	line "TM to teach good"
 	cont "moves to #MON!"
 	done
 
@@ -34,8 +34,8 @@ _Route14AfterBattleText2::
 
 _Route14BattleText3::
 	text "TMs are on sale"
-	line "in CELADON!"
-	cont "But, only a few"
+	line "in Celadon!"
+	cont "But only a few"
 	cont "people have HMs!"
 	done
 
@@ -156,8 +156,7 @@ _Route14BattleText10::
 	done
 
 _Route14EndBattleText10::
-	text "Blown"
-	line "away!"
+	text "Blown!"
 	prompt
 
 _Route14AfterBattleText10::
@@ -168,6 +167,6 @@ _Route14AfterBattleText10::
 
 _Route14Text11::
 	text "ROUTE 14"
-	line "West to FUCHSIA"
-	cont "CITY"
+	line "West to Fuchsia"
+	cont "City"
 	done

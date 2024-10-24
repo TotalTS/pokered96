@@ -14,6 +14,6 @@ _CeruleanMartText3::
 	line "RARE CANDY?"
 
 	para "It's supposed to"
-	line "make #MON go"
-	cont "up one level!"
+	line "level up #MON"
+	cont "at once!"
 	done

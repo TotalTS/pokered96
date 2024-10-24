@@ -1,8 +1,7 @@
 _DayCareIntroText::
-	text "I run a DAYCARE."
-	line "Would you like me"
-	cont "to raise one of"
-	cont "your #MON?"
+	text "Hi, I run DAYCARE."
+	line "Would like me to"
+	cont "raise a #MON?"
 	done
 
 _DayCareWhichMonText::
@@ -19,7 +18,7 @@ _DayCareWillLookAfterMonText::
 	prompt
 
 _DayCareComeSeeMeInAWhileText::
-	text "Come see me in"
+	text "Come see me after"
 	line "a while."
 	done
 
@@ -29,10 +28,10 @@ _DayCareMonHasGrownText::
 	text_start
 	line "has grown a lot!"
 
-	para "By level, it's"
-	line "grown by @"
+	para "It's grown by"
+	line "about @"
 	text_decimal wDayCareNumLevelsGrown, 1, 3
-	text "!"
+	text "levels!"
 
 	para "Aren't I great?"
 	prompt
@@ -41,8 +40,8 @@ _DayCareOweMoneyText::
 	text "You owe me ¥@"
 	text_bcd wDayCareTotalCost, 2 | LEADING_ZEROES | LEFT_ALIGN
 	text_start
-	line "for the return"
-	cont "of this #MON."
+	line "for taking this"
+	cont "#MON back."
 	done
 
 _DayCareGotMonBackText::

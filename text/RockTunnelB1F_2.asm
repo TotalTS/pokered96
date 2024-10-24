@@ -1,7 +1,7 @@
 _RockTunnel2AfterBattleText8::
 	text "I'll raise my"
 	line "#MON to beat"
-	cont "yours, kid!"
+	cont "yours, sonny!"
 	done
 
 _RockTunnel2BattleText9::

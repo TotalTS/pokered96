@@ -1,7 +1,7 @@
 _PewterHouse2Text1::
 	text "#MON learn new"
-	line "techniques as"
-	cont "they grow!"
+	line "techniques as they"
+	cont "grow!"
 
 	para "But, some moves"
 	line "must be taught by"

@@ -3,7 +3,7 @@ _BillsHouseText_1e865::
 	line "#MON..."
 	cont "...No I'm not!"
 
-	para "Call me BILL!"
+	para "Call me Bill!"
 	line "I'm a true blue"
 	cont "#MANIAC! Hey!"
 	cont "What's with that"
@@ -23,8 +23,8 @@ _BillsHouseText_1e86a::
 	text "When I'm in the"
 	line "TELEPORTER, go to"
 	cont "my PC and run the"
-	cont "Cell Separation"
-	cont "System!"
+	cont "cell separation"
+	cont "system!"
 	done
 
 _BillsHouseText_1e86f::
@@ -38,11 +38,11 @@ _BillsHouseText_1e86f::
 	prompt
 
 _BillThankYouText::
-	text "BILL: Yeehah!"
+	text "Bill: Yeehah!"
 	line "Thanks, bud! I"
 	cont "owe you one!"
 
-	para "So, did you come"
+	para "So did you come"
 	line "to see my #MON"
 	cont "collection?"
 	cont "You didn't?"
@@ -61,14 +61,14 @@ _SSTicketReceivedText::
 	text_end
 
 _SSTicketNoRoomText::
-	text "You've got too"
-	line "much stuff, bud!"
+	text "You got too much"
+	line "stuff, bud!"
 	done
 
 _BillsHouseText_1e8cb::
-	text "That cruise ship,"
-	line "S.S.ANNE, is in"
-	cont "VERMILION CITY."
+	text "That cruise ship"
+	line "S.S. Anne's in"
+	cont "Vermilion City."
 	cont "Its passengers"
 	cont "are all trainers!"
 
@@ -81,7 +81,7 @@ _BillsHouseText_1e8cb::
 	done
 
 _BillsHouseText_1e8da::
-	text "BILL: Look, bud,"
+	text "Bill: Look, bud,"
 	line "just check out"
 	cont "some of my rare"
 	cont "#MON on my PC!"

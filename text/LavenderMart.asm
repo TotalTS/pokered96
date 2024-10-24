@@ -25,6 +25,6 @@ _LavenderMartNuggetText::
 	line "in the mountains."
 
 	para "I thought it was"
-	line "useless, but it"
-	cont "sold for ¥5000!"
+	line "useless but it"
+	cont "sold for ¥5,000!"
 	done

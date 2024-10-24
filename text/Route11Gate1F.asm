@@ -4,10 +4,10 @@ _Route11GateText1::
 	cont "isn't it hard to"
 	cont "think up names?"
 
-	para "In LAVENDER TOWN,"
+	para "In Lavender Town,"
 	line "there's a man who"
-	cont "rates #MON"
-	cont "nicknames."
+	cont "will rate your"
+	cont "#MON nicknames."
 
 	para "He'll help you"
 	line "rename them too!"

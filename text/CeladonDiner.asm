@@ -2,20 +2,20 @@ _CeladonDinerText1::
 	text "Hi!"
 
 	para "We're taking a"
-	line "break now."
+	line "break now!"
 	done
 
 _CeladonDinerText2::
 	text "My #MON are"
-	line "weak, so I often"
-	cont "have to go to the"
-	cont "DRUG STORE."
+	line "weak so I often"
+	cont "have to use the"
+	cont "drug store."
 	done
 
 _CeladonDinerText3::
 	text "Psst! There's a"
 	line "basement under"
-	cont "the GAME CORNER."
+	cont "the game corner."
 	done
 
 _CeladonDinerText4::
@@ -23,7 +23,7 @@ _CeladonDinerText4::
 
 	para "The man at that"
 	line "table lost it all"
-	cont "at the slots."
+	cont "at the slots!"
 	done
 
 _CeladonDinerText_491a7::
@@ -37,7 +37,7 @@ _CeladonDinerText_491a7::
 	cont "straight!"
 
 	para "Here! I won't be"
-	line "needing this any-"
+	line "needing this any"
 	cont "more!"
 	prompt
 

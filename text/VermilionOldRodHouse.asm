@@ -1,8 +1,8 @@
 _VermilionHouse2Text_560b1::
-	text "I'm the FISHING"
-	line "GURU!"
+	text "I'm the fishing"
+	line "guru!"
 
-	para "I simply Looove"
+	para "I simply LOVE"
 	line "fishing!"
 
 	para "Do you like to"
@@ -14,7 +14,7 @@ _VermilionHouse2Text_560b6::
 	line "your style!"
 
 	para "Take this and"
-	line "fish, young one!"
+	line "fish, young man!"
 
 	para "<PLAYER> received"
 	line "an @"
@@ -31,7 +31,7 @@ _VermilionHouse2Text_560bb::
 	para "From the seas to"
 	line "rivers, go out"
 	cont "and land the big"
-	cont "one, young one!"
+	cont "one, young man!"
 	done
 
 _VermilionHouse2Text_560c0::

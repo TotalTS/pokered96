@@ -24,7 +24,7 @@ _Lab4Text_75dd0::
 	done
 
 _Lab4Text_75dd5::
-	text "Where were you?"
+	text "Where were you!"
 
 	para "Your fossil is"
 	line "back to life!"
@@ -42,14 +42,13 @@ _Lab4Text_610ae::
 	text "!"
 
 	para "It is fossil of"
-	line "@"
+	line "#MON @"
 	text_ram wStringBuffer
-	text ", a"
-	cont "#MON that is"
-	cont "already extinct!"
+	text ""
+	cont "that is extinct!"
 
-	para "My Resurrection"
-	line "Machine will make"
+	para "My resurrection"
+	line "machine will make"
 	cont "that #MON live"
 	cont "again!"
 	done

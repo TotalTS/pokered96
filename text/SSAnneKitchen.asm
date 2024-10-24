@@ -1,5 +1,5 @@
 _SSAnne6Text1::
-	text "You, mon petit!"
+	text "You there!"
 	line "We're busy here!"
 	cont "Out of the way!"
 	done
@@ -41,29 +41,29 @@ _SSAnne6Text6::
 
 _SSAnne6Text_61807::
 	text "Er-hem! Indeed I"
-	line "am le CHEF!"
+	line "am le Chef!"
 
 	para "Le main course is"
 	prompt
 
 _SSAnne6Text_6180c::
-	text "Salmon du Salad!"
+	text "salmon du salad!"
 
 	para "Les guests may"
-	line "gripe it's fish"
+	line "complain is fish"
 	cont "again, however!"
 	done
 
 _SSAnne6Text_61811::
-	text "Eels au Barbecue!"
+	text "eels au barbecue!"
 
 	para "Les guests will"
 	line "mutiny, I fear."
 	done
 
 _SSAnne6Text_61816::
-	text "Prime Beef Steak!"
+	text "prime beef steak!"
 
-	para "But, have I enough"
+	para "But have I enough"
 	line "fillets du beef?"
 	done

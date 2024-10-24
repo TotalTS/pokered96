@@ -9,21 +9,21 @@ _Lab1Text1::
 
 _Lab1Text2::
 	text "A photo of the"
-	line "LAB's founder,"
-	cont "DR.FUJI!"
+	line "Lab's founder,"
+	cont "Dr. Fuji!"
 	done
 
 _Lab1Text3::
-	text "#MON LAB"
+	text "#MON Lab"
 	line "Meeting Room"
 	done
 
 _Lab1Text4::
-	text "#MON LAB"
-	line "R-and-D Room"
+	text "#MON Lab"
+	line "Research Lab"
 	done
 
 _Lab1Text5::
-	text "#MON LAB"
+	text "#MON Lab"
 	line "Testing Room"
 	done

@@ -1,5 +1,5 @@
 _Route15BattleText1::
-	text "Let me try out the"
+	text "Let me try out"
 	line "#MON I just"
 	cont "got in a trade!"
 	done
@@ -15,8 +15,8 @@ _Route15AfterBattleText1::
 	cont "any #MON you"
 	cont "get in a trade."
 
-	para "Only the Original"
-	line "Trainer can."
+	para "Only the original"
+	line "trainer can."
 	done
 
 _Route15BattleText2::
@@ -32,7 +32,7 @@ _Route15EndBattleText2::
 
 _Route15AfterBattleText2::
 	text "I'm afraid of"
-	line "BIKERs, they look"
+	line "bikers, they look"
 	cont "so ugly and mean!"
 	done
 
@@ -43,7 +43,7 @@ _Route15BattleText3::
 	done
 
 _Route15EndBattleText3::
-	text "Ow!"
+	text " "
 	line "That's tragic!"
 	prompt
 
@@ -115,8 +115,8 @@ _Route15EndBattleText7::
 _Route15AfterBattleText7::
 	text "You only live"
 	line "once, so I live"
-	cont "as an outlaw!"
-	cont "TEAM ROCKET RULES!"
+	cont "as an outlaw! The"
+	cont "Rockets are cool!"
 	done
 
 _Route15BattleText8::
@@ -136,13 +136,14 @@ _Route15AfterBattleText8::
 	done
 
 _Route15BattleText9::
-	text "What's cool?"
-	line "Trading #MON!"
+	text "What's in? Trading"
+	line "#MON!"
 	done
 
 _Route15EndBattleText9::
-	text "I"
-	line "said trade!"
+	text " "
+	line "Trade I"
+	cont "said not battle!"
 	prompt
 
 _Route15AfterBattleText9::
@@ -167,6 +168,6 @@ _Route15AfterBattleText10::
 
 _Route15Text12::
 	text "ROUTE 15"
-	line "West to FUCHSIA"
-	cont "CITY"
+	line "West to Fuchsia"
+	cont "City"
 	done

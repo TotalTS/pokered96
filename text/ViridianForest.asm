@@ -2,8 +2,9 @@ _ViridianForestText1::
 	text "I came here with"
 	line "some friends!"
 
-	para "They're out for"
-	line "#MON fights!"
+	para "They're looking"
+	line "for #MON"
+	cont "fights!"
 	done
 
 _ViridianForestBattleText1::
@@ -58,21 +59,20 @@ _ViridianFrstAfterBattleText3::
 	cont "the ground!"
 
 	para "I'm looking for"
-	line "the stuff I"
-	cont "dropped!"
+	line "stuff I dropped!"
 	done
 
 _ViridianForestText8::
 	text "I ran out of #"
-	line "BALLs to catch"
-	cont "#MON with!"
+	line "BALLs for catch-"
+	cont "ing #MON!"
 
 	para "You should carry"
 	line "extras!"
 	done
 
 _ViridianForestText9::
-	text "TRAINER TIPS"
+	text "TRAINER TIPS!"
 
 	para "If you want to"
 	line "avoid battles,"
@@ -83,20 +83,20 @@ _ViridianForestText9::
 _ViridianForestText10::
 	text "For poison, use"
 	line "ANTIDOTE! Get it"
-	cont "at #MON MARTs!"
+	cont "at #MON MART!"
 	done
 
 _ViridianForestText11::
-	text "TRAINER TIPS"
+	text "TRAINER TIPS!"
 
-	para "Contact PROF.OAK"
+	para "Contact Prof. Oak"
 	line "via PC to get"
 	cont "your #DEX"
 	cont "evaluated!"
 	done
 
 _ViridianForestText12::
-	text "TRAINER TIPS"
+	text "TRAINER TIPS!"
 
 	para "No stealing of"
 	line "#MON from"
@@ -106,7 +106,7 @@ _ViridianForestText12::
 	done
 
 _ViridianForestText13::
-	text "TRAINER TIPS"
+	text "TRAINER TIPS!"
 
 	para "Weaken #MON"
 	line "before attempting"
@@ -117,7 +117,7 @@ _ViridianForestText13::
 	done
 
 _ViridianForestText14::
-	text "LEAVING"
-	line "VIRIDIAN FOREST"
+	text "VIRIDIAN FOREST"
+	line "EXIT"
 	cont "PEWTER CITY AHEAD"
 	done

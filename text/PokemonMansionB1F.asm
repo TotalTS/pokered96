@@ -1,6 +1,6 @@
 _Mansion4BattleText1::
-	text "Uh-oh. Where am"
-	line "I now?"
+	text "Uh-oh where the"
+	line "heck am I now?"
 	done
 
 _Mansion4EndBattleText1::
@@ -9,7 +9,7 @@ _Mansion4EndBattleText1::
 
 _Mansion4AfterBattleText1::
 	text "You can find stuff"
-	line "lying around."
+	line "lying around!"
 	done
 
 _Mansion4BattleText2::

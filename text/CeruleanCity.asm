@@ -207,8 +207,7 @@ _CeruleanCityText10::
 _CeruleanCityText12::
 	text "CERULEAN CITY"
 	line "Your gateway to"
-	cont "cave exploration!"
-					
+	cont "cave exploration!"					
 	done
 
 _CeruleanCityText13::

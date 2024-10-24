@@ -28,8 +28,8 @@ _NothingHereText::
 	prompt
 
 _ItsABiteText::
-	text "Oh!"
-	line "It's a bite!"
+	text "Ho!"
+	line "It's a hit!"
 	prompt
 
 _ExclamationText::
@@ -53,7 +53,7 @@ _MartSignText::
 	done
 
 _PokeCenterSignText::
-	text "Heal Your #MON!"
+	text "HEAL YOUR #MON!"
 	line "#MON CENTER"
 	done
 
@@ -71,8 +71,8 @@ _NoMoreRoomForItemText::
 
 _OaksAideHiText::
 	text "Hi! Remember me?"
-	line "I'm PROF.OAK's"
-	cont "AIDE!"
+	line "I'm Prof. Oak's"
+	cont "aide!"
 
 	para "If you caught @"
 	text_decimal hOaksAideRequirement, 1, 3
@@ -85,8 +85,8 @@ _OaksAideHiText::
 	text "!"
 
 	para "So, <PLAYER>! Have"
-	line "you caught at"
-	cont "least @"
+	line "you caught more"
+	cont "than @"
 	text_decimal hOaksAideRequirement, 1, 3
 	text " kinds of"
 	cont "#MON?"
@@ -140,9 +140,9 @@ _OaksAideGotItemText::
 	text_end
 
 _OaksAideNoRoomText::
-	text "Oh! I see you"
-	line "don't have any"
-	cont "room for the"
+	text "Oh! But I see"
+	line "you don't have any"
+	cont "room for this"
 	cont "@"
 	text_ram wOaksAideRewardItemName
 	text "."

@@ -1,20 +1,20 @@
 _CeruleanHouse2Text_74e77::
-	text "#MON BADGEs"
+	text "#MON badges"
 	line "are owned only by"
 	cont "skilled trainers."
 
 	para "I see you have"
-	line "at least one."
+	line "several."
 
-	para "Those BADGEs have"
+	para "Those badges have"
 	line "amazing secrets!"
 	prompt
 
 _CeruleanHouse2Text_74e7c::
-	text "Now then..."
+	text "Now then."
 
 	para "Which of the 8"
-	line "BADGEs should I"
+	line "badges should I"
 	cont "describe?"
 	done
 
@@ -24,9 +24,9 @@ _CeruleanHouse2Text_74e81::
 	done
 
 _CeruleanHouse2Text_74e96::
-	text "The ATTACK of all"
+	text "The power of all"
 	line "#MON increases"
-	cont "a little bit."
+	cont "slightly."
 
 	para "It also lets you"
 	line "use FLASH any"
@@ -41,18 +41,18 @@ _CeruleanHouse2Text_74e9b::
 	line "become unruly!"
 
 	para "It also lets you"
-	line "use CUT outside"
-	cont "of battle."
+	line "use CUT any time,"
+	cont "any where."
 	prompt
 
 _CeruleanHouse2Text_74ea0::
-	text "The SPEED of all"
+	text "The speed of all"
 	line "#MON increases"
 	cont "a little bit."
 
 	para "It also lets you"
-	line "use FLY outside"
-	cont "of battle."
+	line "use FLY even when"
+	cont "not in battle."
 	prompt
 
 _CeruleanHouse2Text_74ea5::
@@ -60,21 +60,21 @@ _CeruleanHouse2Text_74ea5::
 	line "will obey you."
 
 	para "Any higher, they"
-	line "become unruly!"
+	line "are delinquent!"
 
 	para "It also lets you"
-	line "use STRENGTH out-"
-	cont "side of battle."
+	line "use STRENGTH any"
+	cont "time, any where."
 	prompt
 
 _CeruleanHouse2Text_74eaa::
-	text "The DEFENSE of all"
+	text "The defense of all"
 	line "#MON increases"
 	cont "a little bit."
 
 	para "It also lets you"
-	line "use SURF outside"
-	cont "of battle."
+	line "use SURF any time,"
+	cont "any where."
 	prompt
 
 _CeruleanHouse2Text_74eaf::
@@ -82,16 +82,16 @@ _CeruleanHouse2Text_74eaf::
 	line "will obey you."
 
 	para "Any higher, they"
-	line "become unruly!"
+	line "regain wildness!"
 	prompt
 
 _CeruleanHouse2Text_74eb4::
 	text "Your #MON's"
-	line "SPECIAL abilities"
-	cont "increase a bit."
+	line "special abilities"
+	cont "increase a tad."
 	prompt
 
 _CeruleanHouse2Text_74eb9::
 	text "All #MON will"
-	line "obey you!"
+	line "do as you bid!"
 	prompt

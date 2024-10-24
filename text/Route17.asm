@@ -9,9 +9,9 @@ _Route17EndBattleText1::
 	prompt
 
 _Route17AfterBattleText1::
-	text "Good stuff is"
+	text "Good stuff are"
 	line "lying around on"
-	cont "CYCLING ROAD!"
+	cont "Cycling Road!"
 	done
 
 _Route17BattleText2::
@@ -24,14 +24,14 @@ _Route17EndBattleText2::
 	prompt
 
 _Route17AfterBattleText2::
-	text "I could belly-"
-	line "bump you outta"
-	cont "here!"
+	text "I could just"
+	line "bounce you right"
+	cont "off my belly!"
 	done
 
 _Route17BattleText3::
 	text "You heading to"
-	line "FUCHSIA?"
+	line "Fuchsia?"
 	done
 
 _Route17EndBattleText3::
@@ -40,12 +40,12 @@ _Route17EndBattleText3::
 	prompt
 
 _Route17AfterBattleText3::
-	text "I love racing"
+	text "I love booting it"
 	line "downhill!"
 	done
 
 _Route17BattleText4::
-	text "We're BIKERs!"
+	text "We're bikers!"
 	line "Highway stars!"
 	done
 
@@ -71,7 +71,7 @@ _Route17EndBattleText5::
 _Route17AfterBattleText5::
 	text "I got my VOLTORB"
 	line "at the abandoned"
-	cont "POWER PLANT."
+	cont "power plant"
 	done
 
 _Route17BattleText6::
@@ -80,14 +80,14 @@ _Route17BattleText6::
 	done
 
 _Route17EndBattleText6::
-	text "Why,"
+	text "Why"
 	line "you!"
 	prompt
 
 _Route17AfterBattleText6::
 	text "Maybe some #MON"
 	line "need element"
-	cont "STONEs to evolve."
+	cont "stones to evolve."
 	done
 
 _Route17BattleText7::
@@ -119,8 +119,8 @@ _Route17AfterBattleText8::
 	done
 
 _Route17BattleText9::
-	text "Nice BIKE!"
-	line "How's it handle?"
+	text "Nice bike! How's"
+	line "it handle?"
 	done
 
 _Route17EndBattleText9::
@@ -133,8 +133,8 @@ _Route17AfterBattleText9::
 	done
 
 _Route17BattleText10::
-	text "Get lost kid!"
-	line "I'm bushed!"
+	text "Get lost kid, I'm"
+	line "just bushed!"
 	done
 
 _Route17EndBattleText10::
@@ -143,7 +143,7 @@ _Route17EndBattleText10::
 	prompt
 
 _Route17AfterBattleText10::
-	text "I need to catch"
+	text "I need to snatch"
 	line "a few Zs!"
 	done
 
@@ -155,30 +155,30 @@ _Route17Text11::
 	done
 
 _Route17Text12::
-	text "TRAINER TIPS"
+	text "TRAINER TIPS!"
 
 	para "All #MON are"
-	line "unique."
+	line "unique!"
 
 	para "Even #MON of"
 	line "the same type and"
 	cont "level grow at"
-	cont "different rates."
+	cont "different rates!"
 	done
 
 _Route17Text13::
-	text "TRAINER TIPS"
+	text "TRAINER TIPS!"
 
-	para "Press the A or B"
-	line "Button to stay in"
-	cont "place while on a"
-	cont "slope."
+	para "A Button serves"
+	line "as bike brakes to"
+	cont "hold your place"
+	cont "on slopes!"
 	done
 
 _Route17Text14::
 	text "ROUTE 17"
-	line "CELADON CITY -"
-	cont "FUCHSIA CITY"
+	line "Celadon City -"
+	cont " Fuchsia City"
 	done
 
 _Route17Text15::

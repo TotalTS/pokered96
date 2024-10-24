@@ -8,12 +8,12 @@ _SabrinaPreBattleText::
 
 	para "I first learned"
 	line "to bend spoons"
-	cont "with my mind."
+	cont "with my mind!"
 
-	para "I dislike fight-"
-	line "ing, but if you"
-	cont "wish, I will show"
-	cont "you my powers!"
+	para "I dislike fighting"
+	line "but if you wish,"
+	cont "I will perform my"
+	cont "powers on you!"
 	done
 
 _ReceivedMarshBadgeText::
@@ -38,9 +38,10 @@ _SabrinaPostBattleAdviceText::
 	done
 
 _KogaMarshBadgeInfoText::
-	text "The MARSHBADGE"
-	line "makes #MON up"
-	cont "to L70 obey you!"
+	text "MARSHBADGE assures"
+	line "the loyalty of"
+	cont "your #MON up"
+	cont "to L70!"
 
 	para "Stronger #MON"
 	line "will become wild,"
@@ -75,10 +76,9 @@ _TM46NoRoomText::
 	done
 
 _SaffronGymGuidePreBattleText::
-	text "Yo! Champ in"
-	line "making!"
+	text "Yo! Champ to be!"
 
-	para "SABRINA's #MON"
+	para "Sabrina's #MON"
 	line "use psychic power"
 	cont "instead of force!"
 
@@ -101,7 +101,7 @@ _SaffronGymGuidePostBattleText::
 	done
 
 _SaffronGymBattleText1::
-	text "SABRINA is younger"
+	text "Sabrina is younger"
 	line "than I, but I"
 	cont "respect her!"
 	done
@@ -118,12 +118,12 @@ _SaffronGymAfterBattleText1::
 	cont "will wins!"
 
 	para "If you wish"
-	line "to beat SABRINA,"
+	line "to beat Sabrina,"
 	cont "focus on winning!"
 	done
 
 _SaffronGymBattleText2::
-	text "Does our unseen"
+	text "Does our unseeable"
 	line "power scare you?"
 	done
 
@@ -170,9 +170,9 @@ _SaffronGymEndBattleText4::
 	prompt
 
 _SaffronGymAfterBattleText4::
-	text "SABRINA just wiped"
-	line "out the KARATE"
-	cont "MASTER next door!"
+	text "Sabrina just wiped"
+	line "out the Karate"
+	cont "Master next door!"
 	done
 
 _SaffronGymBattleText5::
@@ -193,12 +193,12 @@ _SaffronGymAfterBattleText5::
 	done
 
 _SaffronGymBattleText6::
-	text "SABRINA is young,"
+	text "Sabrina is young,"
 	line "but she's also"
-	cont "our LEADER!"
+	cont "our leader!"
 
-	para "You won't reach"
-	line "her easily!"
+	para "You won't get to"
+	line "see her easily!"
 	done
 
 _SaffronGymEndBattleText6::
@@ -208,23 +208,23 @@ _SaffronGymEndBattleText6::
 
 _SaffronGymAfterBattleText6::
 	text "There used to be"
-	line "2 #MON GYMs in"
-	cont "SAFFRON."
+	line "2 #MON Gyms in"
+	cont "Saffron."
 
-	para "The FIGHTING DOJO"
+	para "The karate studio"
 	line "next door lost"
-	cont "its GYM status"
+	cont "its Gym status"
 	cont "when we went and"
 	cont "creamed them!"
 	done
 
 _SaffronGymBattleText7::
-	text "SAFFRON #MON"
-	line "GYM is famous for"
+	text "Saffron #MON"
+	line "Gym is famous for"
 	cont "its psychics!"
 
 	para "You want to see"
-	line "SABRINA!"
+	line "Sabrina!"
 	cont "I can tell!"
 	done
 

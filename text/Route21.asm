@@ -30,7 +30,7 @@ _Route21AfterBattleText2::
 
 _Route21BattleText3::
 	text "The sea cleanses"
-	line "my body and soul!"
+	line "us body and soul!"
 	done
 
 _Route21EndBattleText3::
@@ -39,7 +39,7 @@ _Route21EndBattleText3::
 
 _Route21AfterBattleText3::
 	text "I like the"
-	line "mountains too!"
+	line "mountains, too!"
 	done
 
 _Route21BattleText4::
@@ -64,8 +64,8 @@ _Route21BattleText5::
 	done
 
 _Route21EndBattleText5::
-	text "Diver!!"
-	line "Down!!"
+	text "Diver"
+	line "Down!"
 	prompt
 
 _Route21AfterBattleText5::
@@ -79,13 +79,12 @@ _Route21BattleText6::
 	done
 
 _Route21EndBattleText6::
-	text "Pant..."
-	line "pant...pant..."
+	text "Arrgh!"
 	prompt
 
 _Route21AfterBattleText6::
 	text "I'm beat!"
-	line "But, I still have"
+	line "But I still have"
 	cont "the bike race and"
 	cont "marathon left!"
 	done
@@ -97,7 +96,6 @@ _Route21BattleText7::
 
 _Route21EndBattleText7::
 	text "Yow!"
-	line "I lost!"
 	prompt
 
 _Route21AfterBattleText7::
@@ -118,12 +116,12 @@ _Route21EndBattleText8::
 _Route21AfterBattleText8::
 	text "I was just angry"
 	line "that I couldn't"
-	cont "catch anything."
+	cont "catch anything!"
 	done
 
 _Route21BattleText9::
 	text "Keep me company"
-	line "'til I get a hit!"
+	line "till I get a hit!"
 	done
 
 _Route21EndBattleText9::

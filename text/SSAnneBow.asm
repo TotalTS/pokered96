@@ -47,6 +47,6 @@ _SSAnne5EndBattleText2::
 _SSAnne5AfterBattleText2::
 	text "My Pa said there"
 	line "are 100 kinds of"
-	cont "#MON. I think"
-	cont "there are more."
+	cont "#MON, but I"
+	cont "say there's more."
 	done

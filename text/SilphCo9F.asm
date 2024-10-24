@@ -15,11 +15,11 @@ _SilphCo9Text_5d8ef::
 
 _SilphCo9BattleText1::
 	text "Your #MON seem"
-	line "to adore you, kid!"
+	line "to adore you kid!"
 	done
 
 _SilphCo9EndBattleText1::
-	text "Ghaaah!"
+	text "Gwar!"
 	prompt
 
 _SilphCo9AfterBattleText1::
@@ -48,15 +48,15 @@ _SilphCo9AfterBattleText2::
 
 _SilphCo9BattleText3::
 	text "I am one of the 4"
-	line "ROCKET BROTHERS!"
+	line "Rocket Brothers!"
 	done
 
 _SilphCo9EndBattleText3::
 	text "Warg!"
-	line "Brothers, I lost!"
+	line "Crashed out!"
 	prompt
 
 _SilphCo9AfterBattleText3::
 	text "My brothers will"
-	line "avenge me!"
+	line "get my revenge!"
 	done

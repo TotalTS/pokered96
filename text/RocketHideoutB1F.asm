@@ -1,5 +1,5 @@
 _RocketHideout1EndBattleText6::
-	text "Why...?@"
+	text "Why?@"
 	text_end
 
 _RocketHideout1BattleText2::
@@ -14,12 +14,12 @@ _RocketHideout1EndBattleText2::
 
 _RocketHideout1AfterBattleTxt2::
 	text "Are you dissing"
-	line "TEAM ROCKET?"
+	line "the Rocket Team?"
 	done
 
 _RocketHideout1BattleText3::
-	text "You broke into"
-	line "our operation?"
+	text "You broke into a"
+	line "Rocket operation?"
 	done
 
 _RocketHideout1EndBattleText3::
@@ -29,11 +29,11 @@ _RocketHideout1EndBattleText3::
 _RocketHideout1AfterBattleTxt3::
 	text "You're not going"
 	line "to get away with"
-	cont "this, brat!"
+	cont "this little boy!"
 	done
 
 _RocketHideout1BattleText4::
-	text "Intruder alert!"
+	text "Don't move!"
 	done
 
 _RocketHideout1EndBattleText4::
@@ -59,8 +59,8 @@ _RocketHideout1EndBattleText5::
 
 _RocketHideout1AfterBattleTxt5::
 	text "OK, I'll talk!"
-	line "Take the elevator"
-	cont "to see my BOSS!"
+	line "Ride the elevator"
+	cont "to see my Boss!"
 	done
 
 _RocketHideout1BattleText6::
@@ -70,5 +70,5 @@ _RocketHideout1BattleText6::
 
 _RocketHideout1AfterBattleTxt6::
 	text "Uh-oh, that fight"
-	line "opened the door!"
+	line "popped the door!"
 	done

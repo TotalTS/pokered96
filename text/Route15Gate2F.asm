@@ -2,7 +2,7 @@ _Route15GateUpstairsText_4968c::
 	text "EXP.ALL gives"
 	line "EXP points to all"
 	cont "the #MON with"
-	cont "you, even if they"
+	cont "you even if they"
 	cont "don't fight."
 
 	para "It does, however,"
@@ -17,7 +17,7 @@ _Route15GateUpstairsText_4968c::
 
 _Route15GateUpstairsText_49698::
 	text "Looked into the"
-	line "binoculars."
+	line "telescope..."
 
 	para "It looks like a"
 	line "small island!"

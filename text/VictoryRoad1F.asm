@@ -11,7 +11,7 @@ _VictoryRoad1EndBattleText1::
 
 _VictoryRoad1AfterBattleText1::
 	text "I never wanted to"
-	line "lose to anybody!"
+	line "lose to a guy!"
 	done
 
 _VictoryRoad1BattleText2::

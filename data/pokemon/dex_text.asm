@@ -369,9 +369,9 @@ _GravelerDexEntry::
 	dex
 
 _ChanseyDexEntry::
-	text "A rare and elusive"
-	next "#MON that is"
-	next "said to bring"
+	text "A rare and"
+	next "elusive #MON"
+	next "that is said to"
 
 	page "bring happiness" 
 	next "to people who"

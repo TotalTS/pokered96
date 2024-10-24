@@ -35,7 +35,7 @@ _Route24EndBattleText3::
 	prompt
 
 _Route24AfterBattleText3::
-	text "I did my best, so"
+	text "I did my best so"
 	line "I've no regrets!"
 	done
 

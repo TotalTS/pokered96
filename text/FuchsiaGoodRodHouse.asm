@@ -1,9 +1,9 @@
 _FuchsiaHouse3Text_561bd::
-	text "I'm the FISHING"
-	line "GURU's older"
+	text "I'm the fishing"
+	line "guru's older"
 	cont "brother!"
 
-	para "I simply Looove"
+	para "I simply LOVE"
 	line "fishing!"
 
 	para "Do you like to"
@@ -15,7 +15,7 @@ _FuchsiaHouse3Text_561c2::
 	line "your style!"
 
 	para "Take this and"
-	line "fish, young one!"
+	line "fish, young man!"
 
 	para "<PLAYER> received"
 	line "a @"

@@ -143,7 +143,6 @@ _Route8EndBattleText9::
 _Route8AfterBattleText9::
 	text "I read that ARIA"
 	line "evolves when it's"
-	cont "when it's exposed"
 	cont "exposed to MOON"
 	cont "STONE."
 	done

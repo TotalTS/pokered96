@@ -1,19 +1,19 @@
 _ViridianMartText1::
 	text "Okay! Say hi to"
-	line "PROF.OAK for me!"
+	line "Prof. Oak for me!"
 	done
 
 _ViridianMartText4::
 	text "Hey! You came from"
-	line "PALLET TOWN?"
+	line "Pallet Town?"
 	done
 
 ViridianMartParcelQuestText::
-	text "You know PROF."
-	line "OAK, right?"
+	text "You know Prof. Oak"
+	line "right?"
 
 	para "His order came in."
-	line "Will you take it"
+	line "Can you take it"
 	cont "to him?"
 
 	para "<PLAYER> got"
@@ -26,6 +26,6 @@ _ViridianMartText2::
 	done
 
 _ViridianMartText3::
-	text "No! POTIONs are"
+	text "Darn! POTIONS are"
 	line "all sold out."
 	done

@@ -14,7 +14,7 @@ _Route11GateUpstairsText_494a3::
 
 _BinocularsSnorlaxText::
 	text "Looked into the"
-	line "binoculars."
+	line "telescope..."
 
 	para "A big #MON is"
 	line "asleep on a road!"
@@ -22,7 +22,7 @@ _BinocularsSnorlaxText::
 
 _BinocularsNoSnorlaxText::
 	text "Looked into the"
-	line "binoculars."
+	line "telescope..."
 
 	para "It's a beautiful"
 	line "view!"
@@ -30,11 +30,11 @@ _BinocularsNoSnorlaxText::
 
 _Route11GateUpstairsText_494d5::
 	text "Looked into the"
-	line "binoculars."
+	line "telescope..."
 
-	para "The only way to"
-	line "get from CERULEAN"
-	cont "CITY to LAVENDER"
-	cont "is by way of the"
-	cont "ROCK TUNNEL."
+	para "To get from"
+	line "Cerulean City to"
+	cont "Lavender, Rock"
+	cont "Tunnel appears to"
+	cont "be the only way..."
 	done

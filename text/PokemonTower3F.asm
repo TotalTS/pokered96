@@ -5,12 +5,12 @@ _PokemonTower3BattleText1::
 
 _PokemonTower3EndBattleText1::
 	text "Hwa!"
-	line "I'm saved!"
+	line "Saved!"
 	prompt
 
 _PokemonTower3AfterBattleText1::
-	text "The GHOSTs can be"
-	line "identified by the"
+	text "The ghost can be"
+	line "identified by"
 	cont "SILPH SCOPE."
 	done
 
@@ -25,13 +25,13 @@ _PokemonTower3EndBattleText2::
 	prompt
 
 _PokemonTower3AfterBattleText2::
-	text "Sorry! I was"
+	text "Sorry! I had been"
 	line "possessed!"
 	done
 
 _PokemonTower3BattleText3::
-	text "Be gone!"
-	line "Evil spirit!"
+	text "Hwargh!..."
+	line "Kekeke..."
 	done
 
 _PokemonTower3EndBattleText3::
@@ -40,6 +40,6 @@ _PokemonTower3EndBattleText3::
 	prompt
 
 _PokemonTower3AfterBattleText3::
-	text "My friends were"
-	line "possessed too!"
+	text "My colleagues have"
+	line "been possessed!"
 	done

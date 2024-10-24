@@ -146,7 +146,7 @@ _ViridianGymEndBattleText4::
 _ViridianGymAfterBattleText4::
 	text "If my #MON"
 	line "were as good at"
-	cont "Karate as I..."
+	cont "karate as I..."
 	done
 
 _ViridianGymBattleText5::

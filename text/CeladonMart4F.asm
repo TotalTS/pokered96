@@ -18,9 +18,9 @@ _CeladonMart4Text4::
 	text "Express yourself"
 	line "with gifts!"
 
-	para "4F: WISEMAN GIFTS"
+	para "4F: Wiseman Gifts"
 
 	para "Evolution Special!"
-	line "Element STONEs on"
+	line "Element stones on"
 	cont "sale now!"
 	done

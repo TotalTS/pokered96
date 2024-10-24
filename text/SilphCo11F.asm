@@ -1,7 +1,7 @@
 _SilphCoPresidentText::
-	text "PRESIDENT: Thank"
-	line "you for saving"
-	cont "SILPH!"
+	text "President: Son,"
+	line "thank you for"
+	cont "saving SILPH!"
 
 	para "I will never"
 	line "forget you saved"
@@ -27,7 +27,7 @@ _ReceivedSilphCoMasterBallText::
 	text_end
 
 _SilphCo10Text_6231c::
-	text "PRESIDENT: You"
+	text "President: You"
 	line "can't buy that"
 	cont "anywhere!"
 
@@ -35,9 +35,9 @@ _SilphCo10Text_6231c::
 	line "prototype MASTER"
 	cont "BALL!"
 
-	para "It will catch any"
-	line "#MON without"
-	cont "fail!"
+	para "When thrown, it"
+	line "will catch any"
+	cont "#MON!"
 
 	para "You should be"
 	line "quiet about using"
@@ -50,19 +50,19 @@ _SilphCoMasterBallNoRoomText::
 	done
 
 _SilphCo11Text2::
-	text "SECRETARY: Thank"
+	text "Secretary: Thank"
 	line "you for rescuing"
 	cont "all of us!"
 
 	para "We admire your"
-	line "courage."
+	line "courage!"
 	done
 
 _SilphCo11Text3::
 	text "Ah <PLAYER>!"
 	line "So we meet again!"
 
-	para "The PRESIDENT and"
+	para "The president and"
 	line "I are discussing"
 	cont "a vital business"
 	cont "proposition."
@@ -71,12 +71,12 @@ _SilphCo11Text3::
 	line "out of grown-up"
 	cont "matters..."
 
-	para "Or, experience a"
+	para "Or experience a"
 	line "world of pain!"
 	done
 
 _SilphCo10Text_62330::
-	text "Arrgh!!"
+	text "Arrgh"
 	line "I lost again!?"
 	prompt
 
@@ -85,13 +85,13 @@ _SilphCo10Text_62335::
 	line "You ruined our"
 	cont "plans for SILPH!"
 
-	para "But, TEAM ROCKET"
+	para "But Rocket Team"
 	line "will never fall!"
 
 	para "<PLAYER>! Never"
 	line "forget that all"
 	cont "#MON exist"
-	cont "for TEAM ROCKET!"
+	cont "for Rocket Team!"
 
 	para "I must go, but I"
 	line "shall return!"
@@ -103,19 +103,19 @@ _SilphCo11BattleText1::
 	done
 
 _SilphCo11EndBattleText1::
-	text "Don't..."
-	line "Please!"
+	text "Don't"
+	line "please!"
 	prompt
 
 _SilphCo11AfterBattleText1::
-	text "So, you want to"
-	line "see my BOSS?"
+	text "So you want to"
+	line "see my boss?"
 	done
 
 _SilphCo11BattleText2::
-	text "Halt! Do you have"
+	text "Hold it! You have"
 	line "an appointment"
-	cont "with my BOSS?"
+	cont "with my boss?"
 	done
 
 _SilphCo11EndBattleText2::
@@ -125,7 +125,7 @@ _SilphCo11EndBattleText2::
 
 _SilphCo11AfterBattleText2::
 	text "Watch your step,"
-	line "my BOSS likes his"
+	line "my boss likes his"
 	cont "#MON tough!"
 	done
 

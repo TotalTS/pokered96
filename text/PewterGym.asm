@@ -1,7 +1,7 @@
 _BrockPreBattleText::
-	text "I'm BROCK!"
-	line "I'm PEWTER's GYM"
-	cont "LEADER!"
+	text "I'm Brock!"
+	line "I'm Pewter's Gym"
+	cont "Leader!"
 
 	para "I believe in rock"
 	line "hard defense and"
@@ -9,7 +9,7 @@ _BrockPreBattleText::
 
 	para "That's why my"
 	line "#MON are all"
-	cont "the rock-type!"
+	cont "the rock type!"
 
 	para "Do you still want"
 	line "to challenge me?"

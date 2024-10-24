@@ -1,15 +1,15 @@
 _AgathaBeforeBattleText::
-	text "I am AGATHA of"
-	line "the ELITE FOUR!"
+	text "I am Agatha of"
+	line "the Elite Four!"
 
-	para "OAK's taken a lot"
+	para "Oak's taken a lot"
 	line "of interest in"
 	cont "you, child!"
 
 	para "That old duff was"
 	line "once tough and"
-	cont "handsome! That"
-	cont "was decades ago!"
+	cont "handsome! That's"
+	cont "decades ago!"
 
 	para "Now he just wants"
 	line "to fiddle with"

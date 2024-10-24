@@ -35,14 +35,14 @@ _SilphCo8EndBattleText2::
 	prompt
 
 _SilphCo8AfterBattleText2::
-	text "So, what do you"
+	text "So what do you"
 	line "think of SILPH"
-	cont "BUILDING's maze?"
+	cont "Building's maze?"
 	done
 
 _SilphCo8BattleText3::
 	text "I am one of the 4"
-	line "ROCKET BROTHERS!"
+	line "Rocket Brothers!"
 	done
 
 _SilphCo8EndBattleText3::

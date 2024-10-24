@@ -95,7 +95,7 @@ _WhichMoveToForgetText::
 	done
 
 _AbandonLearningText::
-	text "Abandon learning"
+	text "Then don't learn"
 	line "@"
 	text_ram wStringBuffer
 	text "?"

@@ -24,11 +24,11 @@ _SSAnneRivalBeforeBattleText::
 	para "I already caught"
 	line "40 kinds, pal!"
 
-	para "Different kinds"
-	line "are everywhere!"
+	para "There's different"
+	line "ones everywhere!"
 
 	para "Crawl around in"
-	line "grassy areas!"
+	line "grass and look!"
 	done
 
 _SSAnneRivalDefeatedText::
@@ -52,10 +52,10 @@ _SSAnneRivalCaptainText::
 	line "there was a CUT"
 	cont "master on board."
 
-	para "But, he was just a"
-	line "seasick, old man!"
+	para "But he was just a"
+	line "seasick old man!"
 
-	para "But, CUT itself is"
+	para "But CUT itself is"
 	line "really useful!"
 
 	para "You should go see"

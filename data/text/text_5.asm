@@ -17,7 +17,7 @@ _UsedStrengthText::
 _CanMoveBouldersText::
 	text_ram wcd6d
 	text " can"
-	line "move boulders."
+	line "move boulders!"
 	prompt
 
 _CurrentTooFastText::
@@ -27,49 +27,48 @@ _CurrentTooFastText::
 
 _CyclingIsFunText::
 	text "Cycling is fun!"
-	line "Forget SURFing!"
+	line "Forget surfing!"
 	prompt
 
 _FlashLightsAreaText::
-	text "A blinding FLASH"
+	text "A blinding flash"
 	line "lights the area!"
 	prompt
 
 _WarpToLastPokemonCenterText::
 	text "Warp to the last"
-	line "#MON CENTER."
+	line "#MON Center!"
 	done
 
 _CannotUseTeleportNowText::
 	text_ram wcd6d
 	text " can't"
-	line "use TELEPORT now."
+	line "use TELEPORT now!"
 	prompt
 
 _CannotFlyHereText::
 	text_ram wcd6d
 	text " can't"
-	line "FLY here."
+	line "FLY here!"
 	prompt
 
 _NotHealthyEnoughText::
 	text "Not healthy"
-	line "enough."
+	line "enough!"
 	prompt
 
 _NewBadgeRequiredText::
 	text "No! A new BADGE"
-	line "is required."
+	line "is required!"
 	prompt
 
 _CannotUseItemsHereText::
-	text "You can't use items"
-	line "here."
+	text "No using items"
+	line "here!"
 	prompt
 
 _CannotGetOffHereText::
-	text "You can't get off"
-	line "here."
+	text "Can't get off!"
 	prompt
 
 _GotMonText::
@@ -100,5 +99,5 @@ _BoxIsFullText::
 	cont "accept any more!"
 
 	para "Change the BOX at"
-	line "a #MON CENTER!"
+	line "a #MON Center!"
 	done

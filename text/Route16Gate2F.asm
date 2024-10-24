@@ -11,15 +11,15 @@ _Route16GateUpstairsText_4982f::
 
 _Route16GateUpstairsText_4983b::
 	text "Looked into the"
-	line "binoculars."
+	line "telescope..."
 
-	para "It's CELADON DEPT."
-	line "STORE!"
+	para "It's Celadon Dept."
+	line "Store!"
 	done
 
 _Route16GateUpstairsText_49847::
 	text "Looked into the"
-	line "binoculars."
+	line "telescope..."
 
 	para "There's a long"
 	line "path over water!"

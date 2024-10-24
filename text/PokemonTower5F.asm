@@ -7,8 +7,8 @@ _PokemonTower5Text1::
 	done
 
 _PokemonTower5BattleText1::
-	text "Give...me..."
-	line "your...soul..."
+	text "Give...me...your"
+	line "soul..."
 	done
 
 _PokemonTower5EndBattleText1::
@@ -31,7 +31,8 @@ _PokemonTower5EndBattleText2::
 	prompt
 
 _PokemonTower5AfterBattleText2::
-	text "I was possessed!"
+	text "I am still weak"
+	line "to be possessed!"
 	done
 
 _PokemonTower5BattleText3::

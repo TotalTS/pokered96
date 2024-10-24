@@ -15,11 +15,11 @@ _PewterHouse1Text3::
 	line "#MON that you"
 	cont "get in a trade."
 
-	para "It grows fast, but"
+	para "It grows fast but"
 	line "it may ignore an"
 	cont "unskilled trainer"
 	cont "in battle!"
 
 	para "If only we had"
-	line "some BADGEs..."
+	line "some badges..."
 	done

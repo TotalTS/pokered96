@@ -4,7 +4,7 @@ _VermilionMartText2::
 	cont "use #MON for"
 	cont "criminal acts."
 
-	para "TEAM ROCKET"
+	para "The Rocket Team"
 	line "traffics in rare"
 	cont "#MON."
 
@@ -12,12 +12,12 @@ _VermilionMartText2::
 	line "#MON that they"
 	cont "consider not to"
 	cont "be popular or"
-	cont "useful."
+	cont "useful!"
 	done
 
 _VermilionMartText3::
 	text "I think #MON"
 	line "can be good or"
 	cont "evil. It depends"
-	cont "on the trainer."
+	cont "on the trainer!"
 	done

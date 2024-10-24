@@ -1,6 +1,6 @@
 _Mansion3BattleText1::
 	text "This place is"
-	line "like, huge!"
+	line "like huge!"
 	done
 
 _Mansion3EndBattleText1::
@@ -8,8 +8,8 @@ _Mansion3EndBattleText1::
 	prompt
 
 _Mansion3AfterBattleText1::
-	text "I wonder where"
-	line "my partner went."
+	text "Wonder where my"
+	line "partner got to?"
 	done
 
 _Mansion3BattleText2::
@@ -18,8 +18,8 @@ _Mansion3BattleText2::
 	done
 
 _Mansion3EndBattleText2::
-	text "Whew!"
-	line "Overwhelming!"
+	text "Hoo,"
+	line "overwhelming!"
 	prompt
 
 _Mansion3AfterBattleText2::
@@ -32,6 +32,6 @@ _Mansion3Text5::
 	text "Diary: Feb. 6"
 	line "MEW gave birth."
 
-	para "We named the"
-	line "newborn MEWTWO."
+	para "The newly born we"
+	line "named MEWTWO..."
 	done

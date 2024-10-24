@@ -84,6 +84,9 @@ _CeladonMartRoofText_48520::
 
 	para "TM49 contains"
 	line "TRI ATTACK!@"
+
+	para "It paralyzes the"
+	line "target sometimes!@"
 	text_end
 
 _CeladonMartRoofText_48526::
@@ -102,7 +105,7 @@ _CeladonMartRoofText1::
 	line "trainer, believe"
 	cont "it or not."
 
-	para "But, she's so"
+	para "But she's so"
 	line "immature, she"
 	cont "drives me nuts!"
 	done
@@ -118,11 +121,12 @@ _CeladonMartRoofText4::
 	line "I want something"
 	cont "to drink!"
 
-	para "Give her a drink?"
+	para "Should we give"
+	line "her a drink?"
 	done
 
 _CeladonMartRoofText6::
-	text "ROOFTOP SQUARE:"
+	text "ROOFTOP SQUARE"
 	line "VENDING MACHINES"
 	done
 

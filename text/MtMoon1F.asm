@@ -17,7 +17,7 @@ _MtMoon1AfterBattleText2::
 
 _MtMoon1BattleText3::
 	text "Did you come to"
-	line "explore too?"
+	line "explore, too?"
 	done
 
 _MtMoon1EndBattleText3::

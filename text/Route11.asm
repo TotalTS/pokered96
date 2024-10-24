@@ -62,7 +62,7 @@ _Route11AfterBattleText4::
 
 _Route11BattleText5::
 	text "I just became a"
-	line "trainer! But, I"
+	line "trainer! But I"
 	cont "think I can win!"
 	done
 
@@ -72,13 +72,13 @@ _Route11EndBattleText5::
 	prompt
 
 _Route11AfterBattleText5::
-	text "What do you want?"
+	text "What do you want!"
 	line "Leave me alone!"
 	done
 
 _Route11BattleText6::
 	text "Fwahaha! I have"
-	line "never lost!"
+	line "never lost, boy!"
 	done
 
 _Route11EndBattleText6::
@@ -87,8 +87,8 @@ _Route11EndBattleText6::
 	prompt
 
 _Route11AfterBattleText6::
-	text "Luck of the draw!"
-	line "Just luck!"
+	text "Luck of the draw,"
+	line "boy! Just luck!"
 	done
 
 _Route11BattleText7::
@@ -124,7 +124,7 @@ _Route11AfterBattleText8::
 	cont "the mountains."
 
 	para "It's strong if"
-	line "you can get it."
+	line "you could get it."
 	done
 
 _Route11BattleText9::

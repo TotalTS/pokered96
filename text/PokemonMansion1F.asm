@@ -1,7 +1,7 @@
 _Mansion1BattleText2::
 	text "Who are you? There"
 	line "shouldn't be"
-	cont "anyone here."
+	cont "anyone here!"
 	done
 
 _Mansion1EndBattleText2::

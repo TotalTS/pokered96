@@ -31,9 +31,9 @@ _Route9AfterBattleText2::
 	done
 
 _Route9BattleText3::
-	text "I'm taking ROCK"
-	line "TUNNEL to go to"
-	cont "LAVENDER..."
+	text "I'm taking Rock"
+	line "Tunnel to go to"
+	cont "Lavender..."
 	done
 
 _Route9EndBattleText3::
@@ -43,7 +43,7 @@ _Route9EndBattleText3::
 
 _Route9AfterBattleText3::
 	text "Are you off to"
-	line "ROCK TUNNEL too?"
+	line "Rock Tunnel, too?"
 	done
 
 _Route9BattleText4::
@@ -59,7 +59,7 @@ _Route9EndBattleText4::
 _Route9AfterBattleText4::
 	text "You're obviously"
 	line "talented! Good"
-	cont "luck to you!"
+	cont "luck Mr. Trainer!"
 	done
 
 _Route9BattleText5::
@@ -95,14 +95,14 @@ _Route9EndBattleText6::
 
 _Route9AfterBattleText6::
 	text "Hahaha! Kids"
-	line "should be tough!"
+	line "should be rough!"
 	done
 
 _Route9BattleText7::
 	text "I got up early"
 	line "every day to"
-	cont "raise my #MON"
-	cont "from cocoons!"
+	cont "raise bugs from"
+	cont "caterpillars!"
 	done
 
 _Route9EndBattleText7::
@@ -152,6 +152,6 @@ _Route9AfterBattleText9::
 
 _Route9Text11::
 	text "ROUTE 9"
-	line "CERULEAN CITY-"
-	cont "ROCK TUNNEL"
+	line "Cerulean City-"
+	cont " Rock Tunnel"
 	done

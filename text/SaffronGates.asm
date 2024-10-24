@@ -8,8 +8,8 @@ _SaffronGateText_1dfe7::
 	done
 
 _SaffronGateText_8aaa9::
-	text "Whoa, boy!"
-	line "I'm parched!"
+	text "Whoa boy, I'm"
+	line "just parched!"
 	cont "..."
 	cont "Huh? I can have"
 	cont "this drink?"
@@ -24,15 +24,15 @@ _SaffronGateText_1dff1::
 	cont "..."
 	cont "Gulp..."
 	cont "If you want to go"
-	cont "to SAFFRON CITY..."
+	cont "to Saffron..."
 	cont "..."
 	cont "You can go on"
 	cont "through. I'll"
 	cont "share this with"
-	cont "the other guards!"
+	cont "other guards!"
 	done
 
 _SaffronGateText_1dff6::
-	text "Hi, thanks for"
-	line "the cool drinks!"
+	text "Oh hi! Thanks for"
+	line "your cool drinks!"
 	done

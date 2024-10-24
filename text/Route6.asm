@@ -11,7 +11,6 @@ _Route6EndBattleText1::
 
 _Route6AfterBattleText1::
 	text "Whisper..."
-	line "whisper..."
 	done
 
 _Route6BattleText2::
@@ -21,7 +20,7 @@ _Route6BattleText2::
 	done
 
 _Route6EndBattleText2::
-	text "Ugh!"
+	text "Darn!"
 	line "I hate losing!"
 	prompt
 
@@ -36,19 +35,20 @@ _Route6EndBattleText3::
 	prompt
 
 _Route6AfterBattleText3::
-	text "I like bugs, so"
+	text "I like bugs so"
 	line "I'm going back to"
-	cont "VIRIDIAN FOREST."
+	cont "Viridian Forest."
 	done
 
 _Route6BattleText4::
-	text "Huh? You want"
+	text "Huh? You wanted"
 	line "to talk to me?"
 	done
 
 _Route6EndBattleText4::
 	text "I"
-	line "didn't start it!"
+	line "never started"
+	cont "that!"
 	prompt
 
 _Route6AfterBattleText4::
@@ -81,7 +81,7 @@ _Route6BattleText6::
 
 _Route6EndBattleText6::
 	text "You"
-	line "are too good!"
+	line "are good!"
 	prompt
 
 _Route6AfterBattleText6::
@@ -92,6 +92,6 @@ _Route6AfterBattleText6::
 
 _Route6Text7::
 	text "UNDERGROUND PATH"
-	line "CERULEAN CITY -"
-	cont "VERMILION CITY"
+	line "Cerulean City -"
+	cont " Vermilion City"
 	done

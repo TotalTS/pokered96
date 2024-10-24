@@ -7,8 +7,8 @@ _BrockPostBattleAdviceText::
 	line "very gifted as a"
 	cont "#MON trainer!"
 
-	para "Go to the GYM in"
-	line "CERULEAN and test"
+	para "Go to the gym in"
+	line "Cerulean and test"
 	cont "your abilities!"
 	done
 
@@ -19,7 +19,7 @@ _BeforeReceivedTM34Text::
 
 _ReceivedTM34Text::
 	text "<PLAYER> received"
-	line "TM34!@"
+	line "TM34 from Brock!@"
 	text_end
 
 _TM34ExplanationText::
@@ -57,18 +57,18 @@ _ReceivedBoulderBadgeText::
 
 	para "As proof of your"
 	line "victory, here's"
-	cont "the BOULDERBADGE!"
+	cont "BOULDERBADGE!"
 
 	para "<PLAYER> received"
-	line "the BOULDERBADGE!@"
+	line "BOULDERBADGE!@"
 	text_end
 
 _BrockBoulerBadgeInfoText::
 	text_start
 
 	para "That's an official"
-	line "#MON LEAGUE"
-	cont "BADGE!"
+	line "#MON League"
+	cont  "badge!"
 
 	para "Its bearer's"
 	line "#MON become"
@@ -85,7 +85,7 @@ _PewterGymBattleText1::
 
 	para "You're still light"
 	line "years from facing"
-	cont "BROCK!"
+	cont "Brock!"
 	done
 
 _PewterGymEndBattleText1::
@@ -99,18 +99,18 @@ _PewterGymEndBattleText1::
 _PewterGymAfterBattleText1::
 	text "You're pretty hot,"
 	line "but not as hot"
-	cont "as BROCK!"
+	cont "as Brock!"
 	done
 
 _PewterGymGuidePreAdviceText::
 	text "Hiya! I can tell"
 	line "you have what it"
 	cont "takes to become a"
-	cont "#MON champ!"
+	cont "#MON Champ!"
 
 	para "I'm no trainer,"
-	line "but I can tell"
-	cont "you how to win!"
+	line "I can advise you"
+	cont "on how to win!"
 
 	para "Let me take you"
 	line "to the top!"
@@ -125,7 +125,7 @@ _PewterGymGuideAdviceText::
 	text "The 1st #MON"
 	line "out in a match is"
 	cont "at the top of the"
-	cont "#MON LIST!"
+	cont "#MON List!"
 
 	para "By changing the"
 	line "order of #MON,"
@@ -142,5 +142,5 @@ _PewterGymText_5c524::
 _PewterGymGuidePostBattleText::
 	text "Just as I thought!"
 	line "You're #MON"
-	cont "champ material!"
+	cont "Champ material!"
 	done

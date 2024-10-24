@@ -1,11 +1,11 @@
 _CeladonHouseText1::
 	text "Hehehe! The slots"
 	line "just reel in the"
-	cont "dough, big time!"
+	cont "dough big time!"
 	done
 
 _CeladonHouseText2::
-	text "CHIEF!"
+	text "Chief!"
 
 	para "We just shipped"
 	line "2000 #MON as"
@@ -15,7 +15,7 @@ _CeladonHouseText2::
 _CeladonHouseText3::
 	text "Don't touch the"
 	line "poster at the"
-	cont "GAME CORNER!"
+	cont "game corner!"
 
 	para "There's no secret"
 	line "switch behind it!"

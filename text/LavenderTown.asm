@@ -1,6 +1,6 @@
 _LavenderTownText_4413c::
 	text "Do you believe in"
-	line "GHOSTs?"
+	line "ghosts?"
 	done
 
 _LavenderTownText_44141::
@@ -10,11 +10,11 @@ _LavenderTownText_44141::
 
 _LavenderTownText_44146::
 	text "Hahaha, I guess"
-	line "not."
+	line "not!"
 
 	para "That white hand"
 	line "on your shoulder,"
-	cont "it's not real."
+	cont "it's not real!"
 	done
 
 _LavenderTownText2::
@@ -24,23 +24,23 @@ _LavenderTownText2::
 
 	para "Memorial services"
 	line "are held in"
-	cont "#MON TOWER."
+	cont "#MON Tower."
 	done
 
 _LavenderTownText3::
-	text "GHOSTs appeared"
-	line "in #MON TOWER."
+	text "Ghosts appeared"
+	line "in #MON Tower."
 
 	para "I think they're"
 	line "the spirits of"
 	cont "#MON that the"
-	cont "ROCKETs killed."
+	cont "Rockets killed."
 	done
 
 _LavenderTownText4::
-	text "LAVENDER TOWN"
-	line "The Noble Purple"
-	cont "Town"
+	text "LAVENDER CITY"
+	line "The final resting"
+	cont "place of #MON"
 	done
 
 _LavenderTownText5::
@@ -53,8 +53,8 @@ _LavenderTownText5::
 	done
 
 _LavenderTownText8::
-	text "LAVENDER VOLUNTEER"
-	line "#MON HOUSE"
+	text "Lavender Volunteer"
+	line "#MON Center"
 	done
 
 _LavenderTownText9::

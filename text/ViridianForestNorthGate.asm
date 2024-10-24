@@ -10,8 +10,8 @@ _ViridianForestExitText1::
 
 _ViridianForestExitText2::
 	text "Have you noticed"
-	line "the bushes on the"
-	cont "roadside?"
+	line "the bushes at the"
+	cont "sides of roads?"
 
 	para "They can be cut"
 	line "down by a special"

@@ -1,7 +1,7 @@
 _NameRaterText_1dab3::
 	text "Hello, hello!"
 	line "I am the official"
-	cont "NAME RATER!"
+	cont "name rater!"
 
 	para "Want me to rate"
 	line "the nicknames of"
@@ -15,11 +15,11 @@ _NameRaterText_1dab8::
 
 _NameRaterText_1dabd::
 	text_ram wcd6d
-	text ", is it?"
+	text " is it?"
 	line "That is a decent"
 	cont "nickname!"
 
-	para "But, would you"
+	para "But would you"
 	line "like me to give"
 	cont "it a nicer name?"
 
@@ -49,7 +49,7 @@ _NameRaterText_1dacc::
 
 _NameRaterText_1dad1::
 	text_ram wcd6d
-	text ", is it?"
+	text " is it?"
 	line "That is a truly"
 	cont "impeccable name!"
 

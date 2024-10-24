@@ -419,7 +419,7 @@ _OaksLabText_44215::
 _OaksLabText_4421a::
 	text "You finally got"
 	line "over 50 species!"
-	cont "That's the way!"	
+	cont "That's the way!"
 	done
 
 _OaksLabText_4421f::

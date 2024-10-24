@@ -1,7 +1,7 @@
 _TM39PreReceiveText::
 	text "My #MON's"
 	line "ashes are stored"
-	cont "in #MON TOWER."
+	cont "at #MON Tower."
 
 	para "You can have this"
 	line "TM. I don't need"
@@ -30,14 +30,14 @@ _TM39NoRoomText::
 
 _Route12GateUpstairsText_495b8::
 	text "Looked into the"
-	line "binoculars."
+	line "telescope..."
 
 	para "A man fishing!"
 	done
 
 _Route12GateUpstairsText_495c4::
 	text "Looked into the"
-	line "binoculars."
+	line "telescope..."
 
-	para "It's #MON TOWER!"
+	para "It's #MON Tower!"
 	done

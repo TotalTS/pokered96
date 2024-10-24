@@ -10,7 +10,7 @@ _Route18EndBattleText1::
 
 _Route18AfterBattleText1::
 	text "I wish I had a"
-	line "BIKE!"
+	line "bike like yours!"
 	done
 
 _Route18BattleText2::
@@ -25,8 +25,8 @@ _Route18EndBattleText2::
 	prompt
 
 _Route18AfterBattleText2::
-	text "I also collect sea"
-	line "#MON on"
+	text "I also collect"
+	line "marine #MON on"
 	cont "weekends!"
 	done
 
@@ -47,8 +47,8 @@ _Route18AfterBattleText3::
 
 _Route18Text4::
 	text "ROUTE 18"
-	line "CELADON CITY -"
-	cont "FUCHSIA CITY"
+	line "Celadon City -"
+	cont " Fuchsia City"
 	done
 
 _Route18Text5::

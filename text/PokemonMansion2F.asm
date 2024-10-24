@@ -6,13 +6,13 @@ _Mansion2BattleText1::
 
 _Mansion2EndBattleText1::
 	text "Oh no!"
-	line "My bag of loot!"
+	line "My loot bag!"
 	prompt
 
 _Mansion2AfterBattleText1::
-	text "Switches open and"
-	line "close alternating"
-	cont "sets of doors!"
+	text "A switch opens"
+	line "one door while"
+	cont "another closes."
 	done
 
 _Mansion2Text3::

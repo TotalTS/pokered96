@@ -1,6 +1,6 @@
 _Route20BattleText1::
 	text "The water is"
-	line "shallow here."
+	line "shallow here!"
 	done
 
 _Route20EndBattleText1::
@@ -9,11 +9,11 @@ _Route20EndBattleText1::
 
 _Route20AfterBattleText1::
 	text "I wish I could"
-	line "ride my #MON."
+	line "ride my #MON!"
 	done
 
 _Route20BattleText2::
-	text "SEAFOAM is a"
+	text "Seafoam is a"
 	line "quiet getaway!"
 	done
 
@@ -24,7 +24,7 @@ _Route20EndBattleText2::
 _Route20AfterBattleText2::
 	text "There's a huge"
 	line "cavern underneath"
-	cont "this island."
+	cont "this island!"
 	done
 
 _Route20BattleText3::
@@ -43,7 +43,7 @@ _Route20AfterBattleText3::
 
 _Route20BattleText4::
 	text "Are you on"
-	line "vacation too?"
+	line "vacation, too?"
 	done
 
 _Route20EndBattleText4::
@@ -52,7 +52,7 @@ _Route20EndBattleText4::
 	prompt
 
 _Route20AfterBattleText4::
-	text "SEAFOAM used to"
+	text "Seafoam used to"
 	line "be one island!"
 	done
 
@@ -99,12 +99,12 @@ _Route20EndBattleText7::
 
 _Route20AfterBattleText7::
 	text "My birds can't"
-	line "FLY me back!"
+	line "fly me back!"
 	done
 
 _Route20BattleText8::
 	text "My boy friend gave"
-	line "me big pearls!"
+	line "me some pearls!"
 	done
 
 _Route20EndBattleText8::
@@ -120,7 +120,7 @@ _Route20AfterBattleText8::
 
 _Route20BattleText9::
 	text "I swam here from"
-	line "CINNABAR ISLAND!"
+	line "Cinnabar Island!"
 	done
 
 _Route20EndBattleText9::
@@ -132,12 +132,12 @@ _Route20AfterBattleText9::
 	text "#MON have"
 	line "taken over an"
 	cont "abandoned mansion"
-	cont "on CINNABAR!"
+	cont "on Cinnabar!"
 	done
 
 _Route20BattleText10::
-	text "CINNABAR, in the"
-	line "west, has a LAB"
+	text "Cinnabar in the"
+	line "West has a lab"
 	cont "for #MON."
 	done
 
@@ -146,7 +146,7 @@ _Route20EndBattleText10::
 	prompt
 
 _Route20AfterBattleText10::
-	text "CINNABAR is a "
+	text "Cinnabar is a "
 	line "volcanic island!"
 	done
 
