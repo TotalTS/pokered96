@@ -21,7 +21,7 @@ _VictoryRoad2AfterBattleText1::
 _VictoryRoad2BattleText2::
 	text "Ah, so you wish"
 	line "to challenge the"
-	cont "ELITE FOUR?"
+	cont "Elite Four?"
 	done
 
 _VictoryRoad2EndBattleText2::
