@@ -31,7 +31,7 @@ _DayCareMonHasGrownText::
 	para "It's grown by"
 	line "about @"
 	text_decimal wDayCareNumLevelsGrown, 1, 3
-	text "levels!"
+	text " levels!"
 
 	para "Aren't I great?"
 	prompt

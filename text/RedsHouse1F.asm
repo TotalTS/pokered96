@@ -26,7 +26,7 @@ _MomHealText2::
 _StandByMeText::
 	text "There's a movie"
 	line "on TV. Four boys"
-	cont " are walking on"
+	cont "are walking on"
 	cont "railroad tracks."
 
 	para "I better go, too!"

@@ -49,12 +49,11 @@ _ItemUseBallText08::
 	prompt
 
 _ItemUseBallText06::
-	text "@'s data"
 	text_ram wEnemyMonNick
+	text "'s data"
 	line "will be newly"
 	cont "added to #DEX!"
-	text "!@"
-	text_end
+	done
 
 _SurfingGotOnText::
 	text "<PLAYER> got on"

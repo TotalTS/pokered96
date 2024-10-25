@@ -36,7 +36,8 @@ _EvolvedText::
 	text "Congratulations!"
 	line "@"
 	text_ram wStringBuffer
-	done
+	text "@"
+	text_end
 
 _IntoText::
 	text_start
