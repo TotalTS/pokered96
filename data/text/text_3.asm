@@ -62,8 +62,8 @@ _IsEvolvingText::
 	done
 
 _FellAsleepText::
-	text "<TARGET> fell"
-	line "asleep!"
+	text "<TARGET>"
+	line "fell asleep!"
 	prompt
 
 _AlreadyAsleepText::
@@ -77,18 +77,18 @@ _PoisonedText::
 	prompt
 
 _BadlyPoisonedText::
-	text "<TARGET> was"
-	line "badly poisoned!"
+	text "<TARGET>"
+	line "was badly poisoned!"
 	prompt
 
 _BurnedText::
-	text "<TARGET> got a"
-	line "burn!"
+	text "<TARGET>"
+	line "got a burn!"
 	prompt
 
 _FrozenText::
-	text "<TARGET> was"
-	line "frozen stiff!"
+	text "<TARGET>"
+	line "was frozen stiff!"
 	prompt
 
 _FireDefrostedText::
@@ -127,18 +127,19 @@ _FellText::
 	prompt
 
 _RanFromBattleText::
-	text "<USER> ran"
-	line "from battle!"
+	text "<USER>"
+	line "ran from battle!"
 	prompt
 
 _RanAwayScaredText::
-	text "<TARGET> got"
-	line "scared and ran!"
+	text "<TARGET>"
+	line "got scared"
+	cont "and ran!"
 	prompt
 
 _WasBlownAwayText::
-	text "<TARGET> was"
-	line "blown away!"
+	text "<TARGET>"
+	line "was blown away!"
 	prompt
 
 _ChargeMoveEffectText::
@@ -182,8 +183,8 @@ _DugAHoleText::
 	prompt
 
 _BecameConfusedText::
-	text "<TARGET> became"
-	line "confused!"
+	text "<TARGET>"
+	line "became confused!"
 	prompt
 
 _MimicLearnedMoveText::
@@ -225,14 +226,16 @@ _IsUnaffectedText::
 	prompt
 
 _ParalyzedMayNotAttackText::
-	text "<TARGET> was"
-	line "paralyzed! It has"
-	cont "trouble fighting!"
+	text "<TARGET> "
+	line "was paralyzed!"
+	cont "It has trouble"
+	cont "fighting!"
 	prompt
 
 _SubstituteText::
-	text "<USER> made a"
-	line "substitute!"
+	text "<USER>"
+	line "made a"
+	cont "substitute!"
 	prompt
 
 _HasSubstituteText::
@@ -257,18 +260,20 @@ _GettingPumpedText::
 	prompt
 
 _WasSeededText::
-	text "<TARGET> has"
-	line "been seeded!"
+	text "<TARGET>"
+	line "has been seeded!"
 	prompt
 
 _EvadedAttackText::
-	text "<TARGET> dodged"
-	line "the attack!"
+	text "<TARGET>"
+	line "dodged the"
+	cont "attack!"
 	prompt
 
 _HitWithRecoilText::
-	text "<USER> was"
-	line "hit with recoil!"
+	text "<USER>"
+	line "was hit with"
+	cont "recoil!"
 	prompt
 
 _ConvertedTypeText::
@@ -309,9 +314,9 @@ _TransformedText::
 
 _LightScreenProtectedText::
 	text "<USER>"
-	line "was"
-	cont "protected against"
-	cont "special attacks!"
+	line "was protected"
+	cont "against special"
+	cont "attacks!"
 	prompt
 
 _ReflectGainedArmorText::
@@ -321,8 +326,9 @@ _ReflectGainedArmorText::
 	prompt
 
 _ShroudedInMistText::
-	text "<USER> was"
-	line "shrouded in mist!"
+	text "<USER>"
+	line "was shrouded"
+	cont "in mist!"
 	prompt
 
 _SuckedHealthText::

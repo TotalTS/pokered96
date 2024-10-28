@@ -184,7 +184,7 @@ MonsterNames::
 	db "MISSINGNO."
 	db "MISSINGNO."
 	db "MISSINGNO."
-	db "LADISH@@@@"
+	db "ODDISH@@@@"
 	db "GLOOM@@@@@"
 	db "VILEPLUME@"
 	db "BELLSPROUT"
